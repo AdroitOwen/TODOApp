@@ -1,4 +1,6 @@
 
 mastered HTML CSS & JS
 this is manchi fratanizing with git
-master git
+mastering git
+mastered angular
+to build my portfolio site
